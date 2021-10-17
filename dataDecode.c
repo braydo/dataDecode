@@ -7,7 +7,7 @@
 #include <string.h>
 
 #ifndef DATADECODE
-#define DATADECODE fa250DataDecode
+#define DATADECODE mpd2DataDecode
 #endif
 
 char progName[255];
